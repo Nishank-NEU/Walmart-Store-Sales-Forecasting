@@ -15,8 +15,12 @@ Methodology :
 Medium Article
 For detailed insights and analysis, please refer to the Medium article: [Walmart Store Sales Forecasting](https://medium.com/@dave.nish/walmart-store-sales-forecasting-ad850f127e98)
 
-Repository Contents
+Repository Contents : 
+
 Notebooks: Contains Python notebooks used for data preprocessing, model development, and analysis.
+
 Data: Includes the dataset used for Walmart store sales forecasting.
+
 Reports: Contains the machine learning report summarizing the project findings and insights.
+
 README.md: This file provides an overview of the project and its components.
